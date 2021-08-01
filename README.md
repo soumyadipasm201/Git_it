@@ -1,2 +1,2 @@
 # Git_it
-Lraning Git
+Learning Git
